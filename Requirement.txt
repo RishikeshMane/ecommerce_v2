@@ -1,0 +1,3 @@
+(1) Same product e.g roses are there from 2 user. Need to make it one. Map it properly. New Product dialog.
+(2) Make login screen proper.
+(3) Make 3D effects in Text boxes.

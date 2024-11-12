@@ -1,0 +1,13 @@
+Cactus
+WaterFlower
+LandFlower
+Crotons
+Seeds
+Pots - Ceramic, Earthern, Plastic, Metal, Hanging, Glass
+PlantCare
+Medicinal - Tulsi
+FruitPlant
+IndoorPlant
+OutdoorPlant
+PlantCare
+
